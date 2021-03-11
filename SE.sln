@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE-Airlock", "SE-Airlock\SE-Airlock.csproj", "{66C33C1D-A0A4-46D5-BE8E-AF29EA5A7D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C33C1D-A0A4-46D5-BE8E-AF29EA5A7D13}.Debug|x64.ActiveCfg = Debug|x64
+		{66C33C1D-A0A4-46D5-BE8E-AF29EA5A7D13}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA1BF64-C618-42F7-B4FF-BB56665321A3}
+	EndGlobalSection
+EndGlobal
